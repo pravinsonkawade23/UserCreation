@@ -1,0 +1,7 @@
+<suite name="Suite_1">
+	<test thread-count="5" name="Test_1">
+		<classes>
+			<class name="com.qa.runners.SignInRunner" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
