@@ -20,7 +20,7 @@
 #
 Feature: Shopping for men
 
-  @tag1
+  @Regression
   Scenario: To shop for men
     Given User is present in application
     When User locates Men tab
