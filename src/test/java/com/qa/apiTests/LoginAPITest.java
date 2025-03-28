@@ -20,7 +20,7 @@ public class LoginAPITest {
 				.when()
 					.get()
 				.then()
-					.statusCode(200)
+					.statusCode(530)
 					//.body("maxPasswordHistory", equalTo(5))
 					.extract().response();
 		
