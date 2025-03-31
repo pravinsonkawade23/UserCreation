@@ -10,6 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 		features = "src/test/resources/Features/SignUp.feature",
 		glue = "com.qa.stepDefinitions",
 		tags = "@tag1",
+		plugin = {"pretty", "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"},
 		monochrome = true
 		)
 

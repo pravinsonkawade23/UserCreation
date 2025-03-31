@@ -1,6 +1,7 @@
+com\qa\utilities\ExtentReportManager.class
 com\qa\utilities\ConfigReader.class
 com\qa\page\SignInPage.class
-com\qa\page\SignUpPage.class
 com\qa\utilities\Driver.class
-com\qa\page\MainPage.class
 com\qa\page\UserHomePage.class
+com\qa\page\SignUpPage.class
+com\qa\page\MainPage.class

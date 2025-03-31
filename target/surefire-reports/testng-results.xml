@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-26T12:40:54 IST" name="Surefire suite" finished-at="2025-03-26T12:41:00 IST" duration-ms="6352">
+  <suite started-at="2025-03-28T23:46:01 IST" name="Surefire suite" finished-at="2025-03-28T23:46:05 IST" duration-ms="3709">
     <groups>
     </groups>
-    <test started-at="2025-03-26T12:40:54 IST" name="Surefire test" finished-at="2025-03-26T12:41:00 IST" duration-ms="6352">
+    <test started-at="2025-03-28T23:46:01 IST" name="Surefire test" finished-at="2025-03-28T23:46:05 IST" duration-ms="3709">
       <class name="com.qa.apiTests.PostalPinApiTest">
-        <test-method signature="pinApiTest()[pri:0, instance:com.qa.apiTests.PostalPinApiTest@226a82c4]" started-at="2025-03-26T12:40:54 IST" name="pinApiTest" finished-at="2025-03-26T12:41:00 IST" duration-ms="6266" status="PASS">
+        <test-method signature="pinApiTest()[pri:0, instance:com.qa.apiTests.PostalPinApiTest@48fa0f47]" started-at="2025-03-28T23:46:01 IST" name="pinApiTest" finished-at="2025-03-28T23:46:05 IST" duration-ms="3660" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pinApiTest -->

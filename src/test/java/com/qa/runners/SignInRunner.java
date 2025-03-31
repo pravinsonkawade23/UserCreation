@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 		features = "src/test/resources/Features/SignIn.feature", 
 		glue = "com.qa.stepDefinitions", 
 		tags = "@tag2", 
-		plugin = {"pretty", "html:target/cucumber-reports.html" }, 
+		plugin = {"pretty", "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"},
 		monochrome = true)
 
 public class SignInRunner {

@@ -1,8 +1,9 @@
 com\qa\runners\ShoppingRunner.class
-com\qa\runners\SignUpRunner.class
 com\qa\runners\SignInRunner.class
 com\qa\stepDefinitions\SignInStep.class
-com\qa\stepDefinitions\SignUpStep.class
 com\qa\apiTests\PostalPinApiTest.class
 com\qa\apiTests\SingleUser.class
 com\qa\apiTests\PostApi.class
+com\qa\runners\SignUpRunner.class
+com\qa\stepDefinitions\SignUpStep.class
+hooks\Hooks.class
